@@ -132,6 +132,11 @@ app:
 - **박해세 (BE & UI/UX)**: ATM 화면 레이아웃, 사용자 플로우, 음성 시나리오
 - **정혜인 (PM/Design & FE)**: 캐릭터 애니메이션 기획, 문서·발표 자료
 
+## 📖 상세 문서
+- **[STAR 분석](./STAR_ANALYSIS.md)**: 프로젝트 전체 분석 (Situation-Task-Action-Result)
+- **[트랜젝션 처리 아키텍처](./docs/TRANSACTION_ARCHITECTURE.md)**: 기술적 상세 문서
+- **[문서 인덱스](./docs/README.md)**: 모든 문서의 빠른 참조
+
 ## 라이선스
 - TBD
 
